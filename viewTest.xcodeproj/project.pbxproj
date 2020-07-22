@@ -16,9 +16,7 @@
 		A57B206624C145D800445B1C /* viewTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57B206524C145D800445B1C /* viewTestTests.swift */; };
 		A57B207124C145D800445B1C /* viewTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57B207024C145D800445B1C /* viewTestUITests.swift */; };
 		A584223424C559B900B507B1 /* SquareButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A584223324C559B900B507B1 /* SquareButton.swift */; };
-		A584223624C5625800B507B1 /* ButtonProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A584223524C5625800B507B1 /* ButtonProtocol.swift */; };
 		A584223A24C5790200B507B1 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A584223924C5790200B507B1 /* CustomView.swift */; };
-		A5CF607324C5389C00019F62 /* SelectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CF607224C5389C00019F62 /* SelectorView.swift */; };
 		A5CF607524C5390200019F62 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CF607424C5390200019F62 /* CircleButton.swift */; };
 		A5CF607724C53F2600019F62 /* TriangleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CF607624C53F2600019F62 /* TriangleButton.swift */; };
 /* End PBXBuildFile section */
@@ -56,9 +54,7 @@
 		A57B207024C145D800445B1C /* viewTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewTestUITests.swift; sourceTree = "<group>"; };
 		A57B207224C145D800445B1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A584223324C559B900B507B1 /* SquareButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareButton.swift; sourceTree = "<group>"; };
-		A584223524C5625800B507B1 /* ButtonProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonProtocol.swift; sourceTree = "<group>"; };
 		A584223924C5790200B507B1 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
-		A5CF607224C5389C00019F62 /* SelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectorView.swift; sourceTree = "<group>"; };
 		A5CF607424C5390200019F62 /* CircleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
 		A5CF607624C53F2600019F62 /* TriangleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -114,8 +110,6 @@
 				A57B204E24C145D400445B1C /* AppDelegate.swift */,
 				A57B205024C145D400445B1C /* SceneDelegate.swift */,
 				A57B205224C145D400445B1C /* ViewController.swift */,
-				A584223524C5625800B507B1 /* ButtonProtocol.swift */,
-				A5CF607224C5389C00019F62 /* SelectorView.swift */,
 				A5CF607424C5390200019F62 /* CircleButton.swift */,
 				A5CF607624C53F2600019F62 /* TriangleButton.swift */,
 				A584223324C559B900B507B1 /* SquareButton.swift */,
@@ -281,9 +275,7 @@
 				A5CF607524C5390200019F62 /* CircleButton.swift in Sources */,
 				A57B205324C145D400445B1C /* ViewController.swift in Sources */,
 				A584223A24C5790200B507B1 /* CustomView.swift in Sources */,
-				A5CF607324C5389C00019F62 /* SelectorView.swift in Sources */,
 				A57B204F24C145D400445B1C /* AppDelegate.swift in Sources */,
-				A584223624C5625800B507B1 /* ButtonProtocol.swift in Sources */,
 				A57B205124C145D400445B1C /* SceneDelegate.swift in Sources */,
 				A5CF607724C53F2600019F62 /* TriangleButton.swift in Sources */,
 			);

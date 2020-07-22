@@ -8,7 +8,7 @@
 
 import UIKit
 
-@IBDesignable class TriangleButton: UIButton, ButtonProtocol {
+@IBDesignable class TriangleButton: UIButton {
     var shape:Shape = .triangle
     /*
     // Only override draw() if you perform custom drawing.

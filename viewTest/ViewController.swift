@@ -9,7 +9,7 @@
 import UIKit
 
 
-enum Shape :String{
+enum Shape :String {
     case triangle
     case square
     case circle

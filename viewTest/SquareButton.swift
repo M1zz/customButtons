@@ -8,7 +8,7 @@
 
 import UIKit
 
-@IBDesignable class SquareButton: UIButton, ButtonProtocol {
+@IBDesignable class SquareButton: UIButton {
     var shape:Shape = .square
     /*
      // Only override draw() if you perform custom drawing.

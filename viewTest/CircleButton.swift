@@ -8,7 +8,7 @@
 
 import UIKit
 
-@IBDesignable class CircleButton: UIButton, ButtonProtocol {
+@IBDesignable class CircleButton: UIButton {
     var shape:Shape = .circle
     
     override func draw(_ rect: CGRect) {
